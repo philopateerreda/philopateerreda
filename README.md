@@ -19,7 +19,6 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=philopateerreda&label=Profile%20Views&color=D9B54E&style=flat-square" alt="Profile views" />
   <a href="https://www.linkedin.com/in/philopateer-reda-054881202/"><img src="https://img.shields.io/badge/LinkedIn-philopateer--reda--054881202-D9B54E?style=flat-square&logo=linkedin&logoColor=D9B54E&labelColor=0E1222" alt="LinkedIn: philopateer-reda-054881202" /></a>
   <a href="mailto:filopateerredakamel2004@gmail.com"><img src="https://img.shields.io/badge/Email-filopateerredakamel2004%40gmail.com-D9B54E?style=flat-square&logo=gmail&logoColor=D9B54E&labelColor=0E1222" alt="Email: filopateerredakamel2004@gmail.com" /></a>
 </p>
