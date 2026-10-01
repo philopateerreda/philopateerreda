@@ -9,7 +9,7 @@
 -->
 
 <div align="center">
-  <img src="assets/banner.png" alt="Banner artwork: an angel and a young man by a river under a swirling starry sky" width="100%" />
+  <img src="assets/banner.jpg" alt="Banner artwork: an angel and a young man by a river under a swirling starry sky" width="100%" />
 </div>
 
 <h1 align="center">Philopateer Reda</h1>
