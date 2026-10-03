@@ -26,10 +26,7 @@
 <h2 align="center">About Me</h2>
 
 <p align="center">
-I'm an Electronics &amp; Telecom Engineering student who treats signals, discrete math, and electronics as the foundation for everything I build in software.
-That mindset shows up in my projects (readability analytics, image-segmentation pipelines, numerical solvers) and it's steering me toward NLP.
-Right now I'm focused on local LLM inference: GGUF models served behind Django REST APIs and packaged with Docker.
-I like work that goes from the math to a tool someone can actually use.
+I'm an Electronics &amp; and Telecom Engineering student building applied NLP systems. Currently collaborating on a language learning platform, handling backend services for dialogue, error analysis, and feedback, while returning to classic ML through the GCI world competition to deepen my understanding. Recent work includes image segmentation pipelines, numerical solvers, and readability analytics. I also love movies, so ask me what to watch.
 </p>
 
 <h2 align="center">Tech Stack</h2>
