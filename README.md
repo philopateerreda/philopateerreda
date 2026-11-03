@@ -9,10 +9,6 @@
 
 <br />
 
-<p align="center">
-  <img src="assets/portrait.png" alt="Portrait of Philopateer Reda" width="124" />
-</p>
-
 <h1 align="center">Philopateer Reda</h1>
 
 <p align="center">
@@ -98,6 +94,25 @@ I build machine-learning systems and the evaluation around them. My recent work 
   </tbody>
 </table>
 
+<h2 align="center">Applied NLP</h2>
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h4><a href="https://github.com/philopateerreda/textAnalytics">textAnalytics</a></h4>
+      <sub>Text Intelligence</sub>
+      <p>Readability, lexical-density, POS, NER, and vocabulary-delta analysis with SQLite history and Docker delivery.</p>
+      <p><code>Python</code> <code>spaCy</code> <code>NLTK</code> <code>Docker</code></p>
+    </td>
+    <td width="50%" valign="top">
+      <h4><a href="https://github.com/philopateerreda/IEEEVictorees4">IEEEVictorees4</a></h4>
+      <sub>Applied NLP Services</sub>
+      <p>Django REST text-processing services with local GGUF summarization, scoring, NER, and report generation.</p>
+      <p><code>Django REST</code> <code>llama-cpp-python</code> <code>Docker</code></p>
+    </td>
+  </tr>
+</table>
+
 <h2 align="center">Desktop GUI · Course Final Projects</h2>
 
 <table>
@@ -130,23 +145,9 @@ I build machine-learning systems and the evaluation around them. My recent work 
   </tbody>
 </table>
 
-<h2 align="center">NLP, Vision &amp; Tools</h2>
+<h2 align="center">Vision, Math &amp; Tools</h2>
 
 <table>
-  <tr>
-    <td width="50%" valign="top">
-      <h4><a href="https://github.com/philopateerreda/textAnalytics">textAnalytics</a></h4>
-      <sub>Text Intelligence</sub>
-      <p>Readability, lexical-density, POS, NER, and vocabulary-delta analysis with SQLite history and Docker delivery.</p>
-      <p><code>Python</code> <code>spaCy</code> <code>NLTK</code> <code>Docker</code></p>
-    </td>
-    <td width="50%" valign="top">
-      <h4><a href="https://github.com/philopateerreda/IEEEVictorees4">IEEEVictorees4</a></h4>
-      <sub>Applied NLP Services</sub>
-      <p>Django REST text-processing services with local GGUF summarization, scoring, NER, and report generation.</p>
-      <p><code>Django REST</code> <code>llama-cpp-python</code> <code>Docker</code></p>
-    </td>
-  </tr>
   <tr>
     <td width="50%" valign="top">
       <h4><a href="https://github.com/philopateerreda/DIP-project">DIP-project</a></h4>
